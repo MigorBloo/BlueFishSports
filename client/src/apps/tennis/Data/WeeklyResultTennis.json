@@ -1,0 +1,482 @@
+[
+  {
+    "Result": "Winner",
+    "Player": "Carlos Alcaraz",
+    "Points": 1000
+  },
+  {
+    "Result": "Runner Up",
+    "Player": "Jannik Sinner",
+    "Points": 650
+  },
+  {
+    "Result": "Semi-Finals",
+    "Player": "Lorenzo Musetti",
+    "Points": 400
+  },
+  {
+    "Result": "Semi-Finals",
+    "Player": "Tommy Paul",
+    "Points": 400
+  },
+  {
+    "Result": "Quarterfinals",
+    "Player": "Alexander Zverev",
+    "Points": 200
+  },
+  {
+    "Result": "Quarterfinals",
+    "Player": "Jack Draper",
+    "Points": 200
+  },
+  {
+    "Result": "Quarterfinals",
+    "Player": "Casper Ruud",
+    "Points": 200
+  },
+  {
+    "Result": "Quarterfinals",
+    "Player": "Hubert Hurkacz",
+    "Points": 200
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Alex de Minaur",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Daniil Medvedev",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Arthur Fils",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Francisco Cerundolo",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Jakub Mensik",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Karen Khachanov",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Jaume Munar",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 16",
+    "Player": "Corentin Moutet",
+    "Points": 100
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Jesper de Jong",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Holger Rune",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Stefanos Tsitsipas",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Tomas Machac",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Sebastian Korda",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Alexei Popyrin",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Brandon Nakashima",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Matteo Berrettini",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Hugo Dellien",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Sebastian Ofner",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Fabian Marozsan",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Marcos Giron",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Vilius Gaubas",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Laslo Djere",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Vit Kopriva",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 32",
+    "Player": "Francesco Passaro",
+    "Points": 50
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Mariano Navone",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Taylor Fritz",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Alexander Bublik",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Luca Nardi",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Roberto Bautista Agut",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Ben Shelton",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Frances Tiafoe",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Andrey Rublev",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Nicolas Jarry",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Learner Tien",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Matteo Gigante",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Aleksandar Vukic",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Alejandro Davidovich Fokina",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Jacob Fearnley",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Pedro Martinez",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Thiago Seyboth Wild",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Camilo Ugo Carabelli",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Dusan Lajovic",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Luciano Darderi",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Otto Virtanen",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Francisco Comesana",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Cameron Norrie",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Tallon Griekspoor",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Grigor Dimitrov",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Alexandre Muller",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Ugo Humbert",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Roman Andres Burruchaga",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Carlos Taberner",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Denis Shapovalov",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Jordan Thompson",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Alex Michelsen",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 64",
+    "Player": "Sebastian Baez",
+    "Points": 30
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Matteo Arnaldi",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Roman Safiullin",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Alexander Shevchenko",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Fabio Fognini",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Arthur Rinderknech",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Gabriel Diallo",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Hugo Gaston",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Joao Fonseca",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Mattia Bellucci",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Tomas Barrios Vera",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Flavio Cobolli",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Federico Cina",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Roberto Carballes Baena",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Nuno Borges",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Reilly Opelka",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Nicolas Moreno de Alboran",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Lorenzo Sonego",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Daniel Altmaier",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Bu Yunchaokete",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Tomas Martin Etcheverry",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Damir Dzumhur",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Miomir Kecmanovic",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Quentin Halys",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Yoshihito Nishioka",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Rinky Hijikata",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Jiri Lehecka",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Christopher O'Connell",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Chun-Hsin Tseng",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Aleksandar Kovacevic",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Giovanni Mpetshi Perricard",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Pablo Carreno Busta",
+    "Points": 10
+  },
+  {
+    "Result": "Round of 128",
+    "Player": "Hamad Medjedovic",
+    "Points": 10
+  }
+]

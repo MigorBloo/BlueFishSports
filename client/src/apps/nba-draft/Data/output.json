@@ -1,0 +1,662 @@
+{
+  "Kyle Boone": [
+    {
+      "Expert-Kyle Boone": "Pick",
+      "__EMPTY": "Logo_URLs",
+      "__EMPTY_1": "Team",
+      "__EMPTY_2": "Player",
+      "__EMPTY_3": "Position",
+      "__EMPTY_4": "Trade"
+    },
+    {
+      "Expert-Kyle Boone": 1,
+      "__EMPTY_1": "Dallas Mavericks",
+      "__EMPTY_2": "Cooper Flagg ",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 2,
+      "__EMPTY_1": "San Antonio Spurs",
+      "__EMPTY_2": "Dylan Harper",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 3,
+      "__EMPTY_1": "Philadelphia 76ers",
+      "__EMPTY_2": "Ace Bailey",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 4,
+      "__EMPTY_1": "Charlotte Hornets",
+      "__EMPTY_2": "VJ Edgecombe",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 5,
+      "__EMPTY_1": "Utah Jazz",
+      "__EMPTY_2": "Tre Johnson",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 6,
+      "__EMPTY_1": "Washington Wizards",
+      "__EMPTY_2": "Jeremiah Fears",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 7,
+      "__EMPTY_1": "New Orleans Pelicans",
+      "__EMPTY_2": "Kon Knueppel",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 8,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Kasparas Jakucionis",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 9,
+      "__EMPTY_1": "Toronto Raptors",
+      "__EMPTY_2": "Khaman Maluach",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 10,
+      "__EMPTY_1": "Houston Rockets",
+      "__EMPTY_2": "Collin Murray-Boyles",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 11,
+      "__EMPTY_1": "Portland Trailblazers",
+      "__EMPTY_2": "Egor Demin",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 12,
+      "__EMPTY_1": "Chicago Bulls",
+      "__EMPTY_2": "Derik Queen",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 13,
+      "__EMPTY_1": "Atlanta Hawks",
+      "__EMPTY_2": "Jase Richardson",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 14,
+      "__EMPTY_1": "San Antonio Spurs",
+      "__EMPTY_2": "Liam McNeeley",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 15,
+      "__EMPTY_1": "Oklahoma City Thunder",
+      "__EMPTY_2": "Cedric Coward",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 16,
+      "__EMPTY_1": "Orlando Magic",
+      "__EMPTY_2": "Nique Clifford",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 17,
+      "__EMPTY_1": "Minnesota Timberwolves",
+      "__EMPTY_2": "Carter Bryant",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 18,
+      "__EMPTY_1": "Washington Wizards",
+      "__EMPTY_2": "Danny Wolf",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 19,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Asa Newell",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 20,
+      "__EMPTY_1": "Miami Heat",
+      "__EMPTY_2": "Nolan Traore",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 21,
+      "__EMPTY_1": "Utah Jazz",
+      "__EMPTY_2": "Noa Essengue",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 22,
+      "__EMPTY_1": "Atlanta Hawks",
+      "__EMPTY_2": "Thomas Sorber",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 23,
+      "__EMPTY_1": "Indiana Pacers",
+      "__EMPTY_2": "Joan Beringer",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 24,
+      "__EMPTY_1": "Oklahoma City Thunder",
+      "__EMPTY_2": "Ryan Kalkbrenner",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 25,
+      "__EMPTY_1": "Orlando Magic",
+      "__EMPTY_2": "Walter Clayton Jr.",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 26,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Ben Saraf",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 27,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Hugo Gonzalez",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 28,
+      "__EMPTY_1": "Boston Celtics",
+      "__EMPTY_2": "Noah Penda",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 29,
+      "__EMPTY_1": "Phoenix Suns",
+      "__EMPTY_2": "Maxime Raynaud",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Kyle Boone": 30,
+      "__EMPTY_1": "Los Angeles Clippers",
+      "__EMPTY_2": "Yanic Konan Niederhauser",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    }
+  ],
+  "Aran Smith": [
+    {
+      "Expert-Aran Smith": "Pick",
+      "__EMPTY": "Logo_URLs",
+      "__EMPTY_1": "Team",
+      "__EMPTY_2": "Player",
+      "__EMPTY_3": "Position",
+      "__EMPTY_4": "Trade"
+    },
+    {
+      "Expert-Aran Smith": 1,
+      "__EMPTY_1": "Dallas Mavericks",
+      "__EMPTY_2": "Cooper Flagg ",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 2,
+      "__EMPTY_1": "San Antonio Spurs",
+      "__EMPTY_2": "Dylan Harper",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 3,
+      "__EMPTY_1": "Philadelphia 76ers",
+      "__EMPTY_2": "VJ Edgecombe",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 4,
+      "__EMPTY_1": "Charlotte Hornets",
+      "__EMPTY_2": "Ace Bailey",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 5,
+      "__EMPTY_1": "Utah Jazz",
+      "__EMPTY_2": "Jeremiah Fears",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 6,
+      "__EMPTY_1": "Washington Wizards",
+      "__EMPTY_2": "Nolan Traore",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 7,
+      "__EMPTY_1": "New Orleans Pelicans",
+      "__EMPTY_2": "Tre Johnson",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 8,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Kon Knueppel",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 9,
+      "__EMPTY_1": "Toronto Raptors",
+      "__EMPTY_2": "Noa Essengue",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 10,
+      "__EMPTY_1": "Houston Rockets",
+      "__EMPTY_2": "Egor Demin",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 11,
+      "__EMPTY_1": "Portland Trailblazers",
+      "__EMPTY_2": "Derik Queen",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 12,
+      "__EMPTY_1": "Chicago Bulls",
+      "__EMPTY_2": "Nique Clifford",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 13,
+      "__EMPTY_1": "Atlanta Hawks",
+      "__EMPTY_2": "Khaman Maluach",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 14,
+      "__EMPTY_1": "San Antonio Spurs",
+      "__EMPTY_2": "Asa Newell",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 15,
+      "__EMPTY_1": "Oklahoma City Thunder",
+      "__EMPTY_2": "Liam McNeeley",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 16,
+      "__EMPTY_1": "Orlando Magic",
+      "__EMPTY_2": "Kasparas Jakucionis",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 17,
+      "__EMPTY_1": "Minnesota Timberwolves",
+      "__EMPTY_2": "Thomas Sorber",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 18,
+      "__EMPTY_1": "Washington Wizards",
+      "__EMPTY_2": "Carter Bryant",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 19,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Joan Beringer",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 20,
+      "__EMPTY_1": "Miami Heat",
+      "__EMPTY_2": "Rasheer Fleming",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 21,
+      "__EMPTY_1": "Utah Jazz",
+      "__EMPTY_2": "Drake Powell",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 22,
+      "__EMPTY_1": "Atlanta Hawks",
+      "__EMPTY_2": "Jase Richardson",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 23,
+      "__EMPTY_1": "Indiana Pacers",
+      "__EMPTY_2": "Noah Penda",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 24,
+      "__EMPTY_1": "Oklahoma City Thunder",
+      "__EMPTY_2": "Will Riley",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 25,
+      "__EMPTY_1": "Orlando Magic",
+      "__EMPTY_2": "Walter Clayton Jr.",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 26,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Danny Wolf",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 27,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Cedric Coward",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 28,
+      "__EMPTY_1": "Boston Celtics",
+      "__EMPTY_2": "Collin Murray-Boyles",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 29,
+      "__EMPTY_1": "Phoenix Suns",
+      "__EMPTY_2": "Hugo Gonzalez",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Expert-Aran Smith": 30,
+      "__EMPTY_1": "Los Angeles Clippers",
+      "__EMPTY_2": "Chaz Lanier",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    }
+  ],
+  "GROK AI": [
+    {
+      "Aran Smith": "Pick",
+      "__EMPTY": "Logo_URLs",
+      "__EMPTY_1": "Team",
+      "__EMPTY_2": "Player",
+      "__EMPTY_3": "Position",
+      "__EMPTY_4": "Trade"
+    },
+    {
+      "Aran Smith": 1,
+      "__EMPTY_1": "Dallas Mavericks",
+      "__EMPTY_2": "Cooper Flagg ",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 2,
+      "__EMPTY_1": "San Antonio Spurs",
+      "__EMPTY_2": "Dylan Harper",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 3,
+      "__EMPTY_1": "Philadelphia 76ers",
+      "__EMPTY_2": "VJ Edgecombe",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 4,
+      "__EMPTY_1": "Charlotte Hornets",
+      "__EMPTY_2": "Kon Knueppel",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 5,
+      "__EMPTY_1": "Utah Jazz",
+      "__EMPTY_2": "Ace Bailey",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 6,
+      "__EMPTY_1": "Washington Wizards",
+      "__EMPTY_2": "Khaman Maluach",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 7,
+      "__EMPTY_1": "New Orleans Pelicans",
+      "__EMPTY_2": "Tre Johnson",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 8,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Jeremiah Fears",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 9,
+      "__EMPTY_1": "Toronto Raptors",
+      "__EMPTY_2": "Noa Essengue",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 10,
+      "__EMPTY_1": "Houston Rockets",
+      "__EMPTY_2": "Kasparas Jakucionis",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 11,
+      "__EMPTY_1": "Portland Trailblazers",
+      "__EMPTY_2": "Derik Queen",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 12,
+      "__EMPTY_1": "Chicago Bulls",
+      "__EMPTY_2": "Egor Demin",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 13,
+      "__EMPTY_1": "Atlanta Hawks",
+      "__EMPTY_2": "Nolan Traore",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 14,
+      "__EMPTY_1": "San Antonio Spurs",
+      "__EMPTY_2": "Asa Newell",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 15,
+      "__EMPTY_1": "Oklahoma City Thunder",
+      "__EMPTY_2": "Liam McNeeley",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 16,
+      "__EMPTY_1": "Orlando Magic",
+      "__EMPTY_2": "Collin Murray-Boyles",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 17,
+      "__EMPTY_1": "Minnesota Timberwolves",
+      "__EMPTY_2": "Ben Saraf",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 18,
+      "__EMPTY_1": "Washington Wizards",
+      "__EMPTY_2": "Hugo Gonzalez",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 19,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Adou Thiero",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 20,
+      "__EMPTY_1": "Miami Heat",
+      "__EMPTY_2": "Rasheer Fleming",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 21,
+      "__EMPTY_1": "Utah Jazz",
+      "__EMPTY_2": "Nique Clifford",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 22,
+      "__EMPTY_1": "Atlanta Hawks",
+      "__EMPTY_2": "Will Riley",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 23,
+      "__EMPTY_1": "Indiana Pacers",
+      "__EMPTY_2": "Thomas Sorber",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 24,
+      "__EMPTY_1": "Oklahoma City Thunder",
+      "__EMPTY_2": "Danny Wolf",
+      "__EMPTY_3": "PF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 25,
+      "__EMPTY_1": "Orlando Magic",
+      "__EMPTY_2": "Walter Clayton Jr.",
+      "__EMPTY_3": "PG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 26,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Cedric Coward",
+      "__EMPTY_3": "SG",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 27,
+      "__EMPTY_1": "Brooklyn Nets",
+      "__EMPTY_2": "Carter Bryant",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 28,
+      "__EMPTY_1": "Boston Celtics",
+      "__EMPTY_2": "Noah Penda",
+      "__EMPTY_3": "SF",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 29,
+      "__EMPTY_1": "Phoenix Suns",
+      "__EMPTY_2": "Johnni Broome",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    },
+    {
+      "Aran Smith": 30,
+      "__EMPTY_1": "Los Angeles Clippers",
+      "__EMPTY_2": "Yanic Konan Niederhauser",
+      "__EMPTY_3": "C",
+      "__EMPTY_4": "No"
+    }
+  ]
+}

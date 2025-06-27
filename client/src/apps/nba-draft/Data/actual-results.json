@@ -1,0 +1,154 @@
+{
+  "UserSelectionSheet": [
+    {
+      "Pick": 1,
+      "Team": "Dallas Mavericks",
+      "Points": 0
+    },
+    {
+      "Pick": 2,
+      "Team": "Philadelphia 76ers",
+      "Points": 0
+    },
+    {
+      "Pick": 3,
+      "Team": "San Antonio Spurs",
+      "Points": 0
+    },
+    {
+      "Pick": 4,
+      "Team": "Charlotte Hornets",
+      "Points": 0
+    },
+    {
+      "Pick": 5,
+      "Team": "Utah Jazz",
+      "Points": 0
+    },
+    {
+      "Pick": 6,
+      "Team": "Washington Wizards",
+      "Points": 0
+    },
+    {
+      "Pick": 7,
+      "Team": "New Orleans Pelicans",
+      "Points": 0
+    },
+    {
+      "Pick": 8,
+      "Team": "Brooklyn Nets",
+      "Points": 0
+    },
+    {
+      "Pick": 9,
+      "Team": "Toronto Raptors",
+      "Points": 0
+    },
+    {
+      "Pick": 10,
+      "Team": "Houston Rockets",
+      "Points": 0
+    },
+    {
+      "Pick": 11,
+      "Team": "Portland Trailblazers",
+      "Points": 0
+    },
+    {
+      "Pick": 12,
+      "Team": "Chicago Bulls",
+      "Points": 0
+    },
+    {
+      "Pick": 13,
+      "Team": "Atlanta Hawks",
+      "Points": 0
+    },
+    {
+      "Pick": 14,
+      "Team": "San Antonio Spurs",
+      "Points": 0
+    },
+    {
+      "Pick": 15,
+      "Team": "Oklahoma City Thunder",
+      "Points": 0
+    },
+    {
+      "Pick": 16,
+      "Team": "Orlando Magic",
+      "Points": 0
+    },
+    {
+      "Pick": 17,
+      "Team": "Minnesota Timberwolves",
+      "Points": 0
+    },
+    {
+      "Pick": 18,
+      "Team": "Washington Wizards",
+      "Points": 0
+    },
+    {
+      "Pick": 19,
+      "Team": "Brooklyn Nets",
+      "Points": 0
+    },
+    {
+      "Pick": 20,
+      "Team": "Miami Heat",
+      "Points": 0
+    },
+    {
+      "Pick": 21,
+      "Team": "Utah Jazz",
+      "Points": 0
+    },
+    {
+      "Pick": 22,
+      "Team": "Atlanta Hawks",
+      "Points": 0
+    },
+    {
+      "Pick": 23,
+      "Team": "Indiana Pacers",
+      "Points": 0
+    },
+    {
+      "Pick": 24,
+      "Team": "Oklahoma City Thunder",
+      "Points": 0
+    },
+    {
+      "Pick": 25,
+      "Team": "Orlando Magic",
+      "Points": 0
+    },
+    {
+      "Pick": 26,
+      "Team": "Brooklyn Nets",
+      "Points": 0
+    },
+    {
+      "Pick": 27,
+      "Team": "Brooklyn Nets",
+      "Points": 0
+    },
+    {
+      "Pick": 28,
+      "Team": "Boston Celtics",
+      "Points": 0
+    },
+    {
+      "Pick": 29,
+      "Team": "Phoenix Suns",
+      "Points": 0
+    },
+    {
+      "Pick": 30,
+      "Team": "Los Angeles Clippers",
+      "Points": 0
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "Rank": 1,
+    "Player": "Jannik Sinner",
+    "Country": "ITA",
+    "Ofiicial Points": 9730,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 2,
+    "Player": "Alexander Zverev",
+    "Country": "GER",
+    "Ofiicial Points": 8085,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 3,
+    "Player": "Carlos Alcaraz",
+    "Country": "ESP",
+    "Ofiicial Points": 7850,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 4,
+    "Player": "Taylor Fritz",
+    "Country": "USA",
+    "Ofiicial Points": 4815,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 5,
+    "Player": "Jack Draper",
+    "Country": "GBR",
+    "Ofiicial Points": 4440,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 6,
+    "Player": "Novak Djokovic",
+    "Country": "SER",
+    "Ofiicial Points": 4130,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 7,
+    "Player": "Casper Ruud",
+    "Country": "NOR",
+    "Ofiicial Points": 3715,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 8,
+    "Player": "Alex de Minaur",
+    "Country": "AUS",
+    "Ofiicial Points": 3635,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 9,
+    "Player": "Lorenzo Musetti",
+    "Country": "ITA",
+    "Ofiicial Points": 3550,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 10,
+    "Player": "Holger Rune",
+    "Country": "DEN",
+    "Ofiicial Points": 3440,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 11,
+    "Player": "Daniil Medvedev",
+    "Country": "-",
+    "Ofiicial Points": 3290,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 12,
+    "Player": "Tommy Paul",
+    "Country": "USA",
+    "Ofiicial Points": 3210,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 13,
+    "Player": "Ben Shelton",
+    "Country": "USA",
+    "Ofiicial Points": 3020,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 14,
+    "Player": "Arthur Fils",
+    "Country": "FRA",
+    "Ofiicial Points": 2920,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 15,
+    "Player": "Grigor Dimitrov",
+    "Country": "BUL",
+    "Ofiicial Points": 2685,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 16,
+    "Player": "Frances Tiafoe",
+    "Country": "USA",
+    "Ofiicial Points": 2640,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 17,
+    "Player": "Andrey Rublev",
+    "Country": "-",
+    "Ofiicial Points": 2580,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 18,
+    "Player": "Francisco Cerundolo",
+    "Country": "ARG",
+    "Ofiicial Points": 2425,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 19,
+    "Player": "Stefanos Tsitsipas",
+    "Country": "GRE",
+    "Ofiicial Points": 2420,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 20,
+    "Player": "Tomas Machac",
+    "Country": "CZE",
+    "Ofiicial Points": 2215,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 21,
+    "Player": "Jakub Mensik",
+    "Country": "CZE",
+    "Ofiicial Points": 2182,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 22,
+    "Player": "Ugo Humbert",
+    "Country": "FRA",
+    "Ofiicial Points": 2145,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 23,
+    "Player": "Sebastian Korda",
+    "Country": "USA",
+    "Ofiicial Points": 2020,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 24,
+    "Player": "Karen Khachanov",
+    "Country": "-",
+    "Ofiicial Points": 1910,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 25,
+    "Player": "Alexei Popyrin",
+    "Country": "AUS",
+    "Ofiicial Points": 1860,
+    "Bucket": "Gold"
+  },
+  {
+    "Rank": 26,
+    "Player": "Alejandro Davidovich Fokina",
+    "Country": "ESP",
+    "Ofiicial Points": 1745,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 27,
+    "Player": "Felix Auger-Aliassime",
+    "Country": "CAN",
+    "Ofiicial Points": 1735,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 28,
+    "Player": "Denis Shapovalov",
+    "Country": "CAN",
+    "Ofiicial Points": 1726,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 29,
+    "Player": "Brandon Nakashima",
+    "Country": "USA",
+    "Ofiicial Points": 1675,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 30,
+    "Player": "Matteo Berretini",
+    "Country": "ITA",
+    "Ofiicial Points": 1670,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 31,
+    "Player": "Hubert Hurkacz",
+    "Country": "POL",
+    "Ofiicial Points": 1665,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 32,
+    "Player": "Alex Michelsen",
+    "Country": "USA",
+    "Ofiicial Points": 1570,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 33,
+    "Player": "Sebastian Baez",
+    "Country": "ARG",
+    "Ofiicial Points": 1540,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 34,
+    "Player": "Flavio Cobolli",
+    "Country": "ITA",
+    "Ofiicial Points": 1520,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 35,
+    "Player": "Tallon Griekspoor",
+    "Country": "NED",
+    "Ofiicial Points": 1505,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 36,
+    "Player": "Giovanni Mpetshi Perricard",
+    "Country": "FRA",
+    "Ofiicial Points": 1464,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 37,
+    "Player": "Matteo Arnaldi",
+    "Country": "ITA",
+    "Ofiicial Points": 1410,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 38,
+    "Player": "Jiri Lehecka",
+    "Country": "CZE",
+    "Ofiicial Points": 1405,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 39,
+    "Player": "Alexandre Muller",
+    "Country": "FRA",
+    "Ofiicial Points": 1403,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 40,
+    "Player": "Nuno Borges",
+    "Country": "POR",
+    "Ofiicial Points": 1360,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 41,
+    "Player": "Jordan Thompson",
+    "Country": "AUS",
+    "Ofiicial Points": 1355,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 42,
+    "Player": "Alejandro Tabilo",
+    "Country": "CHL",
+    "Ofiicial Points": 1340,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 43,
+    "Player": "Gael Monfils",
+    "Country": "FRA",
+    "Ofiicial Points": 1275,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 44,
+    "Player": "Lorenzo Sonego",
+    "Country": "ITA",
+    "Ofiicial Points": 1245,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 45,
+    "Player": "Marcos Giron",
+    "Country": "USA",
+    "Ofiicial Points": 1245,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 46,
+    "Player": "Luciano Darderi",
+    "Country": "ITA",
+    "Ofiicial Points": 1204,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 47,
+    "Player": "Miomir Kecmanovic",
+    "Country": "SER",
+    "Ofiicial Points": 1186,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 48,
+    "Player": "David Goffin",
+    "Country": "BEL",
+    "Ofiicial Points": 1131,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 49,
+    "Player": "Pedro Martinez",
+    "Country": "ESP",
+    "Ofiicial Points": 115,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 50,
+    "Player": "Zizou Bergs",
+    "Country": "BEL",
+    "Ofiicial Points": 1081,
+    "Bucket": "Silver"
+  },
+  {
+    "Rank": 51,
+    "Player": "Tomas Martin Etcheverry",
+    "Country": "ARG",
+    "Ofiicial Points": 1015,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 52,
+    "Player": "Quentin Halys",
+    "Country": "FRA",
+    "Ofiicial Points": 1015,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 53,
+    "Player": "Nicolas Jarry",
+    "Country": "CHL",
+    "Ofiicial Points": 1010,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 54,
+    "Player": "Gabriel Diallo",
+    "Country": "CAN",
+    "Ofiicial Points": 995,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 55,
+    "Player": "Zhizhen Zhang",
+    "Country": "CHN",
+    "Ofiicial Points": 985,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 56,
+    "Player": "Roberto Bautista Agut",
+    "Country": "ESP",
+    "Ofiicial Points": 969,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 57,
+    "Player": "Jacob Fearnley",
+    "Country": "GBR",
+    "Ofiicial Points": 953,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 58,
+    "Player": "Benjamin Bonzi",
+    "Country": "FRA",
+    "Ofiicial Points": 951,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 59,
+    "Player": "Roberto Carballes Baena",
+    "Country": "ESP",
+    "Ofiicial Points": 946,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 60,
+    "Player": "Camilo Ugo Carabelli",
+    "Country": "ARG",
+    "Ofiicial Points": 944,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 61,
+    "Player": "Fabian Marozsan",
+    "Country": "HUN",
+    "Ofiicial Points": 935,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 62,
+    "Player": "Kei Nishikori",
+    "Country": "JPY",
+    "Ofiicial Points": 928,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 63,
+    "Player": "Francisco Comesana",
+    "Country": "ARG",
+    "Ofiicial Points": 906,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 64,
+    "Player": "Laslo Djere",
+    "Country": "SER",
+    "Ofiicial Points": 902,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 65,
+    "Player": "Joao Fonseca",
+    "Country": "BRA",
+    "Ofiicial Points": 897,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 66,
+    "Player": "Jaume Munar",
+    "Country": "ESP",
+    "Ofiicial Points": 892,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 67,
+    "Player": "Juncheng Shang",
+    "Country": "CHN",
+    "Ofiicial Points": 892,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 68,
+    "Player": "Mattia Bellucci",
+    "Country": "ITA",
+    "Ofiicial Points": 891,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 69,
+    "Player": "Damir Dzumhur",
+    "Country": "BOS",
+    "Ofiicial Points": 881,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 70,
+    "Player": "Learner Tien",
+    "Country": "USA",
+    "Ofiicial Points": 878,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 71,
+    "Player": "Daniel Altmaier",
+    "Country": "GER",
+    "Ofiicial Points": 872,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 72,
+    "Player": "Hamad Medjedovic",
+    "Country": "SER",
+    "Ofiicial Points": 871,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 73,
+    "Player": "Bu Yunchaokete",
+    "Country": "CHN",
+    "Ofiicial Points": 857,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 74,
+    "Player": "Yoshihito Nishioka",
+    "Country": "JPY",
+    "Ofiicial Points": 833,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 75,
+    "Player": "Arthur Rinderknech",
+    "Country": "FRA",
+    "Ofiicial Points": 826,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 76,
+    "Player": "Alexander Bublik",
+    "Country": "KAZ",
+    "Ofiicial Points": 820,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 77,
+    "Player": "Roman Safiullin",
+    "Country": "-",
+    "Ofiicial Points": 816,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 78,
+    "Player": "Hugo Gaston",
+    "Country": "FRA",
+    "Ofiicial Points": 793,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 79,
+    "Player": "Aleksandar Vukic",
+    "Country": "AUS",
+    "Ofiicial Points": 792,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 80,
+    "Player": "Aleksandar Kovacevic",
+    "Country": "USA",
+    "Ofiicial Points": 785,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 81,
+    "Player": "Christopher O'Connell",
+    "Country": "AUS",
+    "Ofiicial Points": 765,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 82,
+    "Player": "Rinky Hijikata",
+    "Country": "AUS",
+    "Ofiicial Points": 761,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 83,
+    "Player": "Corentin Moutet",
+    "Country": "FRA",
+    "Ofiicial Points": 752,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 84,
+    "Player": "Borna Coric",
+    "Country": "CRO",
+    "Ofiicial Points": 744,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 85,
+    "Player": "Botic van de Zandschulp",
+    "Country": "NED",
+    "Ofiicial Points": 733,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 86,
+    "Player": "Raphael Collignon",
+    "Country": "BEL",
+    "Ofiicial Points": 726,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 87,
+    "Player": "Jan-Lennard Struff",
+    "Country": "GER",
+    "Ofiicial Points": 720,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 88,
+    "Player": "Adam Walton",
+    "Country": "AUS",
+    "Ofiicial Points": 718,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 89,
+    "Player": "Kamil Majchrzak",
+    "Country": "POL",
+    "Ofiicial Points": 689,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 90,
+    "Player": "James Duckworth",
+    "Country": "AUS",
+    "Ofiicial Points": 673,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 91,
+    "Player": "Cameron Norrie",
+    "Country": "GBR",
+    "Ofiicial Points": 667,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 92,
+    "Player": "Vit Kopriva",
+    "Country": "CZE",
+    "Ofiicial Points": 655,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 93,
+    "Player": "Jesper de Jong",
+    "Country": "NED",
+    "Ofiicial Points": 640,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 94,
+    "Player": "Reilly Opelka",
+    "Country": "USA",
+    "Ofiicial Points": 634,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 95,
+    "Player": "Luca Nardi",
+    "Country": "ITA",
+    "Ofiicial Points": 632,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 96,
+    "Player": "Mackenzie McDonald",
+    "Country": "USA",
+    "Ofiicial Points": 617,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 97,
+    "Player": "Alexander Shevchenko",
+    "Country": "UKR",
+    "Ofiicial Points": 605,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 98,
+    "Player": "Pablo Carreno Busta",
+    "Country": "ESP",
+    "Ofiicial Points": 601,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 99,
+    "Player": "Mariano Navone",
+    "Country": "ITA",
+    "Ofiicial Points": 600,
+    "Bucket": "Bronze"
+  },
+  {
+    "Rank": 100,
+    "Player": "Nishesh Basavareddy",
+    "Country": "USA",
+    "Ofiicial Points": 594,
+    "Bucket": "Bronze"
+  }
+]

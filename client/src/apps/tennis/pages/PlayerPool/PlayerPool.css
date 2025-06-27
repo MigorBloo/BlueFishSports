@@ -1,0 +1,269 @@
+.playerpool-page {
+  padding: 32px;
+  background: #FFF5E6;
+  min-height: 100vh;
+}
+
+.page-header {
+  color: #1a237e;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.playerpool-flex-row {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.playerpool-header {
+  color: #1a237e !important;
+  font-size: 2.5rem !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+  margin-bottom: 2rem !important;
+  margin-top: 5rem !important;
+  padding-top: 1rem !important;
+}
+
+.playerpool-category-header {
+  color: #000000;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.playerpool-table-section {
+  flex: 1 1 33%;
+  max-width: none;
+  min-width: 0;
+  margin-bottom: 0;
+  padding: 24px;
+  border-radius: 12px;
+  box-sizing: border-box;
+  margin-left: 2px;
+  margin-right: 2px;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.gold-category {
+  background-color: #FFD700;
+}
+
+.silver-category {
+  background-color: #C0C0C0;
+}
+
+.bronze-category {
+  background-color: #CD7F32;
+}
+
+.playerpool-table-title {
+  color: #1976d2;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.playerpool-table-container {
+  width: 100% !important;
+  height: 600px !important;
+  overflow: hidden !important;
+  position: relative !important;
+}
+
+.playerpool-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  background: #fff !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  font-size: 0.88rem !important;
+  margin: 0 !important;
+  table-layout: fixed !important;
+}
+
+.playerpool-table thead {
+  display: table !important;
+  width: calc(100% - 8px) !important; /* Account for scrollbar width */
+  table-layout: fixed !important;
+  background: #1976d2 !important;
+}
+
+.playerpool-table tbody {
+  display: block !important;
+  max-height: 520px !important;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  width: 100% !important;
+}
+
+.playerpool-table thead tr,
+.playerpool-table tbody tr {
+  display: table !important;
+  width: 100% !important;
+  table-layout: fixed !important;
+}
+
+.playerpool-table th,
+.playerpool-table td {
+  border: 1px solid #e0e0e0 !important;
+  padding: 4px 6px !important;
+  text-align: center !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+  box-sizing: border-box !important;
+}
+
+.playerpool-table th {
+  background: #1976d2 !important;
+  color: white !important;
+  font-weight: 600 !important;
+  font-size: 0.85rem !important;
+}
+
+.playerpool-table td {
+  font-size: 0.93rem !important;
+  color: #2c3e50 !important;
+  height: 28px !important;
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+  font-weight: 600 !important;
+}
+
+.playerpool-table th:nth-child(1),
+.playerpool-table td:nth-child(1) {
+  width: 35px !important;
+  min-width: 35px !important;
+  max-width: 35px !important;
+}
+
+.playerpool-table th:nth-child(2),
+.playerpool-table td:nth-child(2) {
+  width: 140px !important;
+  min-width: 100px !important;
+}
+
+.playerpool-table th:nth-child(3),
+.playerpool-table td:nth-child(3) {
+  width: 57px !important;
+  min-width: 38px !important;
+  max-width: 57px !important;
+}
+
+.playerpool-table th:nth-child(4),
+.playerpool-table td:nth-child(4) {
+  width: 104px !important;
+  min-width: 76px !important;
+}
+
+.playerpool-table thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #FFF5E6;
+}
+
+.playerpool-table tbody {
+  display: block;
+  max-height: 392px; /* 28px * 12 rows */
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.playerpool-table-body-scroll {
+  display: block !important;
+  max-height: 336px !important; /* 28px * 12 rows */
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  width: 100% !important;
+}
+
+.playerpool-table-body-scroll::-webkit-scrollbar {
+  width: 8px !important;
+  background: #e0e0e0 !important;
+}
+
+.playerpool-table-body-scroll::-webkit-scrollbar-thumb {
+  background: #1976d2 !important;
+  border-radius: 4px !important;
+  border: 2px solid #e0e0e0 !important;
+}
+
+.playerpool-table-body-scroll::-webkit-scrollbar-track {
+  background: #e0e0e0 !important;
+  border-radius: 4px !important;
+  border: 2px solid #fff !important;
+}
+
+@media (max-width: 900px) {
+  .playerpool-flex-row {
+    flex-direction: column;
+    gap: 24px;
+    align-items: stretch;
+  }
+  .playerpool-table-section {
+    max-width: 100%;
+  }
+}
+
+.player-pool-page .player-pool-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  table-layout: fixed !important;
+  background: white !important;
+  border-radius: 12px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  overflow: hidden !important;
+}
+
+.player-pool-page .player-pool-table th,
+.player-pool-page .player-pool-table td {
+  width: 20% !important;
+  box-sizing: border-box !important;
+}
+
+.player-pool-page .player-pool-table th {
+  background-color: #1976d2 !important;
+  color: white !important;
+  font-weight: 600 !important;
+  padding: 16px !important;
+  text-align: center !important;
+  border-bottom: 2px solid #e0e0e0 !important;
+}
+
+.player-pool-page .player-pool-table td {
+  padding: 12px 16px !important;
+  text-align: center !important;
+  border-bottom: 1px solid #eee !important;
+  font-size: 14px !important;
+}
+
+.playerpool-table tbody::-webkit-scrollbar {
+  width: 8px !important;
+  background: #e0e0e0 !important;
+}
+
+.playerpool-table tbody::-webkit-scrollbar-thumb {
+  background: #1976d2 !important;
+  border-radius: 4px !important;
+  border: 2px solid #e0e0e0 !important;
+}
+
+.playerpool-table tbody::-webkit-scrollbar-track {
+  background: #e0e0e0 !important;
+  border-radius: 4px !important;
+  border: 2px solid #fff !important;
+}

@@ -1,0 +1,190 @@
+.register-container {
+  min-height: 100vh;
+  background: #FFF5E6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.register-grid {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  background: #FFF5E6;
+}
+
+.welcome-section {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  color: #2c3e50;
+  background: #FFF5E6;
+}
+
+.welcome-content {
+  max-width: 500px;
+  text-align: center;
+}
+
+.welcome-title {
+  font-weight: 700 !important;
+  margin-bottom: 1rem !important;
+  color: #2c3e50;
+  font-size: 2.4rem !important;
+}
+
+.welcome-subtitle {
+  font-weight: 500 !important;
+  margin-bottom: 1.5rem !important;
+  color: #34495e;
+  font-size: 1.2rem !important;
+}
+
+.welcome-text {
+  line-height: 1.6;
+  color: #7f8c8d;
+}
+
+.form-section {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: lightblue;
+}
+
+.register-paper {
+  padding: 3rem;
+  width: 100%;
+  max-width: 500px;
+  background: lightblue;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.register-title {
+  text-align: center;
+  margin-bottom: 2rem !important;
+  color: #2c3e50;
+  font-weight: 600 !important;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.register-button {
+  background: #1976d2;     
+  color: white !important;
+  padding: 12px !important;
+  font-weight: 600 !important;
+  text-transform: none !important;
+  border-radius: 8px !important;
+  transition: transform 0.2s ease !important;
+}
+
+.register-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(108, 92, 231, 0.3) !important;
+}
+
+.login-link {
+  color: #1976d2;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.login-link:hover {
+  color: #a29bfe;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .register-grid {
+    flex-direction: column;
+  }
+
+  .welcome-section,
+  .form-section {
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .register-paper {
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .register-container {
+    padding: 1rem;
+  }
+
+  .register-paper {
+    padding: 1.5rem;
+  }
+
+  .welcome-title {
+    font-size: 2rem !important;
+  }
+
+  .welcome-subtitle {
+    font-size: 1.25rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .register-container {
+    padding: 0.75rem;
+  }
+
+  .welcome-section,
+  .form-section {
+    padding: 0.75rem;
+  }
+
+  .register-paper {
+    padding: 1rem;
+  }
+
+  .welcome-title {
+    font-size: 1.75rem !important;
+  }
+
+  .welcome-subtitle {
+    font-size: 1.1rem !important;
+  }
+
+  .register-title {
+    font-size: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  .register-button {
+    min-height: 48px;
+    font-size: 1rem;
+  }
+}
+
+/* Touch-friendly improvements for mobile */
+@media (hover: none) and (pointer: coarse) {
+  .register-button {
+    min-height: 48px;
+  }
+
+  .register-button:hover {
+    transform: none;
+  }
+} 

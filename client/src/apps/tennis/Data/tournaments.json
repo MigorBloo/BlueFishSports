@@ -1,0 +1,72 @@
+[
+  {
+    "Date": "30.06.2025",
+    "Designation": "Grand Slam",
+    "Surface": "Grass",
+    "Winner": 2000,
+    "Runner Up": 1200,
+    "Semi-Finals": 800,
+    "Quarterfinals": 400,
+    "Round of 16": 200,
+    "Round of 32": 100,
+    "Round of 64": 50,
+    "Round of 128": 10,
+    "Tournament": "Wimbledon"
+  },
+  {
+    "Date": "21.07.2025",
+    "Designation": "ATP 500",
+    "Surface": "Hard",
+    "Winner": 500,
+    "Runner Up": 330,
+    "Semi-Finals": 200,
+    "Quarterfinals": 100,
+    "Round of 16": 50,
+    "Round of 32": 25,
+    "Round of 64": "NA",
+    "Round of 128": "NA",
+    "Tournament": "Washington"
+  },
+  {
+    "Date": "27.07.2025",
+    "Designation": "ATP 1000",
+    "Surface": "Hard",
+    "Winner": 1000,
+    "Runner Up": 650,
+    "Semi-Finals": 400,
+    "Quarterfinals": 200,
+    "Round of 16": 100,
+    "Round of 32": 50,
+    "Round of 64": 30,
+    "Round of 128": 10,
+    "Tournament": "Toronto"
+  },
+  {
+    "Date": "11.08.2025",
+    "Designation": "ATP 1000",
+    "Surface": "Hard",
+    "Winner": 1000,
+    "Runner Up": 650,
+    "Semi-Finals": 400,
+    "Quarterfinals": 200,
+    "Round of 16": 100,
+    "Round of 32": 50,
+    "Round of 64": 30,
+    "Round of 128": 10,
+    "Tournament": "Cincinnati"
+  },
+  {
+    "Date": "24.08.2025",
+    "Designation": "Grand Slam",
+    "Surface": "Hard",
+    "Winner": 2000,
+    "Runner Up": 1200,
+    "Semi-Finals": 800,
+    "Quarterfinals": 400,
+    "Round of 16": 200,
+    "Round of 32": 100,
+    "Round of 64": 50,
+    "Round of 128": 10,
+    "Tournament": "US Open"
+  }
+]

@@ -1,0 +1,232 @@
+.tournament-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #FFF5E6;
+}
+
+.page-container {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  background-color: #FFF5E6;
+  padding-top: 0;
+  margin-top: 9rem;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 40px;
+  width: 100%;
+}
+
+.page-header {
+  color: #1a237e;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+.tournament-page .tournament-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  background: white !important;
+  border-radius: 12px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  overflow: hidden !important;
+}
+
+.tournament-table th, .tournament-table td {
+  border: 1px solid #e0e0e0;
+  padding: 8px 6px;
+  text-align: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.tournament-page .tournament-table th {
+  background-color: #1976d2 !important;
+  color: white !important;
+  font-weight: 600 !important;
+  padding: 16px !important;
+  text-align: left !important;
+  border-bottom: 2px solid #e0e0e0 !important;
+}
+
+.tournament-table td {
+  font-size: 0.88rem;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.tournament-table td.bold {
+  font-weight: 600;
+}
+
+/* Remove old row color classes */
+.row-gold, .row-silver, .row-bronze, .row-blue {
+  background-color: transparent !important;
+}
+
+/* New surface-based row colors */
+.row-clay {
+  background-color: rgb(255, 153, 51) !important; /* Clay court color */
+}
+
+.row-grass {
+  background-color: rgb(100, 180, 0) !important; /* Grass court color */
+}
+
+.row-hard {
+  background-color: #87CEEB !important; /* Sky blue color for hard courts */
+}
+
+/* Filter and Sort Section */
+.filter-sort-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  padding: 16px;
+  background-color: #FFF5E6;
+  border-radius: 12px;
+  border: 1px solid #e0e0e0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.filter-section, .sort-section {
+  flex: 1;
+}
+
+.filter-section h3, .sort-section h3 {
+  margin: 0 0 12px 0;
+  font-size: 1rem;
+  color: #1a237e;
+  font-weight: 600;
+}
+
+.filter-controls {
+  display: flex;
+  gap: 16px;
+}
+
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter-group label {
+  font-size: 0.88rem;
+  color: #1a237e;
+  font-weight: 600;
+}
+
+.filter-group select, .sort-controls select {
+  padding: 6px 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  font-size: 0.88rem;
+  color: #2c3e50;
+  background-color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.sort-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sort-direction-btn {
+  padding: 6px 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  background-color: white;
+  cursor: pointer;
+  font-size: 1rem;
+  color: #2c3e50;
+  transition: background-color 0.2s;
+  font-weight: 600;
+}
+
+.sort-direction-btn:hover {
+  background-color: #f5f5f5;
+}
+
+@media (max-width: 900px) {
+  .content-container {
+    padding: 24px 8px;
+  }
+  .page-header {
+    font-size: 2rem;
+  }
+  .tournament-table th, .tournament-table td {
+    padding: 5px 2px;
+    font-size: 0.75rem;
+  }
+  .tournament-table th {
+    font-size: 0.8rem;
+  }
+  .filter-sort-container {
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .filter-controls {
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .filter-group {
+    width: 100%;
+  }
+  
+  .filter-group select, .sort-controls select {
+    flex: 1;
+  }
+}
+
+@media (max-width: 600px) {
+  .page-header {
+    font-size: 1.3rem;
+  }
+  .tournament-table th, .tournament-table td {
+    padding: 3px 1px;
+    font-size: 0.65rem;
+  }
+  .tournament-table th {
+    font-size: 0.7rem;
+  }
+}
+
+.tournament-page .page-header {
+  margin-top: -15px !important;
+  margin-bottom: 32px !important;
+  text-align: center !important;
+  color: #1a237e; 
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+}
+
+.tournament-page .content-container {
+  margin-top: 48px !important;
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 0 16px !important;
+} 

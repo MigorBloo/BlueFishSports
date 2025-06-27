@@ -1,0 +1,166 @@
+.user-profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: calc(100vh - 64px);
+  padding: 32px 50px;
+  background-color: #FFF5E6;
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.user-profile-container .profile-paper {
+  width: 50%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.profile-paper {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 32px;
+  width: 100%;
+  max-width: 1600px;
+}
+
+.profile-title {
+  color: #1a237e;
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.profile-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.profile-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: #1976d2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.info-label {
+  color: #666;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.info-value {
+  color: #333;
+  font-size: 1.1rem;
+}
+
+.info-value-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.username-display {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.edit-username-button {
+  background: none;
+  border: none;
+  color: #1976d2;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 4px 8px;
+}
+
+.edit-username-button:hover {
+  text-decoration: underline;
+}
+
+.edit-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.username-input {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.edit-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.save-username-button,
+.cancel-username-button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.save-username-button {
+  background-color: #1976d2;
+  color: white;
+}
+
+.save-username-button:hover {
+  background-color: #1565c0;
+}
+
+.save-username-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.cancel-username-button {
+  background-color: #f5f5f5;
+  color: #666;
+}
+
+.cancel-username-button:hover {
+  background-color: #e0e0e0;
+}
+
+@media (max-width: 600px) {
+  .user-profile-container {
+    padding: 16px;
+  }
+
+  .profile-paper {
+    padding: 24px;
+  }
+
+  .profile-title {
+    font-size: 1.75rem;
+  }
+
+  .profile-avatar {
+    width: 100px;
+    height: 100px;
+    font-size: 2.5rem;
+  }
+} 

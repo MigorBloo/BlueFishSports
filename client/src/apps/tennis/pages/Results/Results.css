@@ -1,0 +1,361 @@
+.results-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #FFF5E6;
+}
+
+.page-container {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  background-color: #FFF5E6;
+  padding-top: 0;
+  margin-top: 12rem;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  max-width: 110vw;
+  width: 100%;
+  padding: 0 24px;
+  margin-left: -30%;
+}
+
+.results-subheading {
+  font-size: 2.50rem;
+  font-weight: 800;
+  color: #1a237e;
+  margin-bottom: 32px;
+  margin-top: 2rem;
+  text-align: center;
+  letter-spacing: 0.01em;
+  margin-left: 0;
+  width: 100%;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.235;
+}
+
+.results-table-container {
+  width: 160% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
+  background: white !important;
+  border-radius: 0 0 12px 12px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  overflow-x: auto !important;
+  box-sizing: border-box !important;
+  display: flex !important;
+  justify-content: flex-start !important;
+  align-items: stretch !important;
+  padding: 0 !important;
+  margin-left: -30% !important;
+}
+
+.results-table-container table.results-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 0.85rem !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  table-layout: fixed !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  flex: 1 1 auto !important;
+  border-spacing: 0 !important;
+  border-color: gray !important;
+  display: table !important;
+  box-sizing: border-box !important;
+}
+
+/* Override any other table styles */
+.results-table-container table.results-table,
+.results-table-container table.results-table * {
+  max-width: none !important;
+  width: auto !important;
+}
+
+.results-table th,
+.results-table td {
+  padding: 12px 12px !important;
+  text-align: left !important;
+  border-bottom: 1px solid #e0e0e0 !important;
+  white-space: nowrap !important;
+  box-sizing: border-box !important;
+  width: auto !important;
+}
+
+.results-table-container table.results-table tbody {
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: 1386px !important;
+  display: table-row-group !important;
+  vertical-align: middle !important;
+  border-color: inherit !important;
+}
+
+.results-table th {
+  background-color: #f5f5f5;
+  font-weight: 600;
+  color: #1a237e;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* Tournament column */
+.results-table th:nth-child(1) {
+  background-color: lightblue;
+  color: #000000;
+}
+
+/* Gold columns: G Selection, G Result, G Points */
+.results-table th:nth-child(2),
+.results-table th:nth-child(3),
+.results-table th:nth-child(4) {
+  background-color: #FFD700;
+  color: #000000;
+}
+
+/* Silver columns: S Selection, S Result, S Points */
+.results-table th:nth-child(5),
+.results-table th:nth-child(6),
+.results-table th:nth-child(7) {
+  background-color: #C0C0C0;
+  color: #000000;
+}
+
+/* Bronze columns: B Selection, B Result, B Points */
+.results-table th:nth-child(8),
+.results-table th:nth-child(9),
+.results-table th:nth-child(10) {
+  background-color: #CD7F32;
+  color: #000000;
+}
+
+/* Total Points column */
+.results-table th:nth-child(11) {
+  background-color: lightblue;
+  color: #000000;
+}
+
+.results-table th:first-child {
+  z-index: 3;
+}
+
+/* Column widths - adjusted for wider table */
+.results-table th:nth-child(1), 
+.results-table td:nth-child(1) { 
+  width: 7.5% !important;   /* Tournament - reduced by 50% */
+}
+
+.results-table th:nth-child(2), .results-table td:nth-child(2) { width: 15%; }  /* Gold Selection */
+.results-table th:nth-child(3), .results-table td:nth-child(3) { width: 10%; }   /* Gold Result */
+.results-table th:nth-child(4), 
+.results-table td:nth-child(4) { 
+  width: 5.625% !important;   /* Gold Points - increased by 12.5% */
+}
+
+.results-table th:nth-child(5), .results-table td:nth-child(5) { width: 15%; }  /* Silver Selection */
+.results-table th:nth-child(6), .results-table td:nth-child(6) { width: 10%; }   /* Silver Result */
+.results-table th:nth-child(7), 
+.results-table td:nth-child(7) { 
+  width: 5.625% !important;   /* Silver Points - increased by 12.5% */
+}
+
+.results-table th:nth-child(8), .results-table td:nth-child(8) { width: 15%; }  /* Bronze Selection */
+.results-table th:nth-child(9), .results-table td:nth-child(9) { width: 10%; }   /* Bronze Result */
+.results-table th:nth-child(10), 
+.results-table td:nth-child(10) { 
+  width: 5.625% !important; /* Bronze Points - increased by 12.5% */
+}
+
+.results-table th:nth-child(11), 
+.results-table td:nth-child(11) { 
+  width: 5.625% !important; /* Total Points - increased by 12.5% */
+}
+
+/* Ellipsis for selection cells */
+.results-table td.selection-cell {
+  font-weight: 700;
+  max-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  position: relative;
+  cursor: pointer;
+}
+
+/* Sticky Tournament column */
+.results-table td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  /* width: 5%;  <-- Remove this if already set above */
+}
+
+/* Bold text for Tournament and Total Points columns */
+.results-table td:first-child,
+.results-table td.total-points {
+  font-weight: 700;
+}
+
+.results-table tr:hover td {
+  background-color: #f8f9fa;
+}
+
+.results-table tr:hover td:first-child {
+  background-color: inherit !important;
+}
+
+.results-table td.total-points {
+  font-weight: 600;
+  color: #1a237e;
+}
+
+.no-results {
+  text-align: center;
+  color: #666;
+  padding: 32px !important;
+}
+
+.loading-message {
+  text-align: center;
+  color: #666;
+  padding: 32px;
+  font-size: 1.1rem;
+}
+
+.error-message {
+  background-color: #ffebee;
+  color: #c62828;
+  padding: 16px;
+  border-radius: 4px;
+  margin: 16px 0;
+  text-align: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+@media (max-width: 900px) {
+  .results-table th,
+  .results-table td {
+    padding: 12px;
+    font-size: 0.9rem;
+  }
+
+  .results-subheading {
+    font-size: 2rem;
+  }
+}
+
+/* Surface-based row colors for Tournament column */
+.results-table tr.row-clay td:first-child {
+  background-color: rgb(255, 153, 51) !important; /* Clay court color */
+}
+.results-table tr.row-grass td:first-child {
+  background-color: rgb(100, 180, 0) !important; /* Grass court color */
+}
+.results-table tr.row-hard td:first-child {
+  background-color: #87CEEB !important; /* Sky blue color for hard courts */
+}
+
+/* Remove hover effect for tournament column */
+.results-table tr:hover td:first-child {
+  background-color: inherit !important;
+}
+
+/* Ensure other columns stay white */
+.results-table td:not(:first-child) {
+  background-color: white !important;
+}
+
+.summary-table-container {
+  width: 160% !important;
+  max-width: none !important;
+  margin: 0 auto 32px auto !important;
+  background: white !important;
+  border-radius: 12px 12px 0 0 !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  overflow-x: auto !important;
+  box-sizing: border-box !important;
+  margin-left: -30% !important;
+}
+
+.summary-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 1.0625rem !important; /* 0.85rem * 1.25 */
+  min-width: 0 !important;
+  max-width: 1663px !important;
+  table-layout: fixed !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: white !important;
+}
+
+/* Summary table header styles */
+.summary-table th {
+  padding: 12px;
+  text-align: center;
+  font-weight: 600;
+  color: #000000;
+  font-size: 1.0625rem !important; /* 0.85rem * 1.25 */
+}
+
+/* Gold Points column */
+.summary-table th:nth-child(1) {
+  background-color: #FFD700; /* Gold */
+}
+
+/* Silver Points column */
+.summary-table th:nth-child(2) {
+  background-color: #C0C0C0; /* Silver */
+}
+
+/* Bronze Points column */
+.summary-table th:nth-child(3) {
+  background-color: #CD7F32; /* Bronze */
+}
+
+/* Total Points column */
+.summary-table th:nth-child(4) {
+  background-color: #ADD8E6; /* Light blue */
+}
+
+.summary-table td {
+  padding: 12px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.0625rem !important; /* 0.85rem * 1.25 */
+}
+
+.results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  padding: 0 20px;
+}
+
+.results-header h1 {
+  margin: 0;
+  color: #333;
+}
+
+.back-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.back-button:hover {
+  background-color: #0056b3;
+} 

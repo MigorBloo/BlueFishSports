@@ -1,0 +1,42 @@
+.leaderboard-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #FFF5E6;
+}
+
+.page-container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 32px 24px;
+  min-height: calc(100vh - 80px);
+  display: flex;
+  flex-direction: column;
+  margin-top: 64px;
+}
+
+.leaderboard-page .page-header {
+  margin-top: 30px !important; /* or your preferred value */
+  margin-bottom: 32px !important;
+  color: #1a237e;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .page-container {
+    padding: 24px 16px;
+    margin-top: 48px;
+  }
+
+  .page-header {
+    font-size: 2rem;
+    margin-bottom: 24px;
+  }
+}

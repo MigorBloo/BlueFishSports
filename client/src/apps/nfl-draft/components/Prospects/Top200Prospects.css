@@ -1,0 +1,174 @@
+.top200-prospects-container {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #e3f2fd;
+}
+
+.top200-prospects-header {
+  margin-bottom: 24px;
+}
+
+.search-filters-container {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.search-field,
+.filter-field {
+  flex: 1;
+  min-width: 200px;
+}
+
+.search-field label,
+.filter-field label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 0.875rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.search-field input,
+.filter-field select {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid rgba(0, 0, 0, 0.23);
+  border-radius: 4px;
+  font-size: 1rem;
+  transition: border-color 0.2s;
+}
+
+.search-field input:focus,
+.filter-field select:focus {
+  outline: none;
+  border-color: #1976d2;
+}
+
+.top200-prospects-container .table-container {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  height: 100% !important;
+  min-height: 600px !important;
+  max-height: 100vh !important;
+  overflow-y: auto !important;
+}
+
+.top200-prospects-container .table-wrapper {
+  width: 100%;
+  height: 100% !important;
+  min-height: 600px !important;
+  max-height: 100vh !important;
+  overflow-y: auto !important;
+  max-height: none !important;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+thead {
+  background-color: #FFF5E6;
+}
+
+th {
+  padding: 12px 16px;
+  text-align: left;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.87);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+td {
+  padding: 12px 16px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+tr:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+/* Column widths */
+.rank-column {
+  width: 80px;
+}
+
+.player-column {
+  width: 140px;
+}
+
+.position-column {
+  width: 100px;
+}
+
+.school-column {
+  width: 200px;
+}
+
+.class-column {
+  width: 100px;
+}
+
+/* Loading state */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #1976d2;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Error state */
+.error-container {
+  padding: 16px;
+}
+
+.error-message {
+  padding: 12px 16px;
+  background-color: #fdecea;
+  color: #d32f2f;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+  .top200-prospects-container {
+    padding: 16px;
+  }
+
+  .search-filters-container {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .search-field,
+  .filter-field {
+    min-width: 100%;
+  }
+
+  th, td {
+    padding: 8px 12px;
+  }
+}
+
+.prospects-section {
+  background: #e3f2fd;
+} 

@@ -1,0 +1,12 @@
+.user-profile-page {
+  min-height: 100vh;
+  background: transparent;
+}
+
+.page-container {
+  padding-top: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}

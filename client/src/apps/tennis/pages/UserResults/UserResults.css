@@ -1,0 +1,260 @@
+.user-results-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #FFF5E6;
+}
+
+.user-results-page .content-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  max-width: 110vw;
+  width: 100%;
+  padding: 0 12px;
+  margin-top: 2rem;
+}
+
+.user-results-heading {
+  font-size: 2.50rem;
+  font-weight: 600;
+  color: #1a237e;
+  margin-bottom: 32px;
+  margin-top: 0;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+.user-results-page .summary-table-container {
+  width: 130% !important;
+  max-width: 1500px !important;
+  margin: 0 auto 32px auto !important;
+  background: white !important;
+  border-radius: 12px 12px 0 0 !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box !important;
+}
+
+.user-results-page .summary-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 0.85rem !important;
+  background: white !important;
+  table-layout: fixed !important;
+}
+
+.user-results-page .summary-table th,
+.user-results-page .summary-table td {
+  padding: 18px 16px !important;
+  text-align: center !important;
+  font-size: 16px !important;
+  border-bottom: 1px solid #eee !important;
+  white-space: nowrap !important;
+}
+
+/* Gold Points column */
+.user-results-page .summary-table th:nth-child(1) {
+  background-color: #FFD700 !important; /* Gold */
+  color: #000000 !important;
+}
+
+/* Silver Points column */
+.user-results-page .summary-table th:nth-child(2) {
+  background-color: #C0C0C0 !important; /* Silver */
+  color: #000000 !important;
+}
+
+/* Bronze Points column */
+.user-results-page .summary-table th:nth-child(3) {
+  background-color: #CD7F32 !important; /* Bronze */
+  color: #000000 !important;
+}
+
+/* Total Points column */
+.user-results-page .summary-table th:nth-child(4) {
+  background-color: #ADD8E6 !important; /* Light blue */
+  color: #000000 !important;
+}
+
+.user-results-page .results-table-container {
+  width: 130% !important;
+  max-width: 1500px !important;
+  margin: 0 auto !important;
+  background: white !important;
+  border-radius: 0 0 12px 12px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05) !important;
+  overflow-x: hidden !important;
+  box-sizing: border-box !important;
+}
+
+.results-table {
+  width: 100% !important;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  min-width: 0 !important;
+  max-width: 1386px !important;
+  table-layout: fixed;
+}
+
+.results-table tbody {
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: 1386px !important;
+}
+
+.results-table th,
+.results-table td {
+  padding: 12px 12px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+
+.results-table th {
+  background-color: #f5f5f5;
+  font-weight: 600;
+  color: #1a237e;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* Tournament column */
+.results-table th:nth-child(1) {
+  background-color: lightblue;
+  color: #000000;
+}
+
+/* Gold columns: G Selection, G Result, G Points */
+.results-table th:nth-child(2),
+.results-table th:nth-child(3),
+.results-table th:nth-child(4) {
+  background-color: #FFD700;
+  color: #000000;
+}
+
+/* Silver columns: S Selection, S Result, S Points */
+.results-table th:nth-child(5),
+.results-table th:nth-child(6),
+.results-table th:nth-child(7) {
+  background-color: #C0C0C0;
+  color: #000000;
+}
+
+/* Bronze columns: B Selection, B Result, B Points */
+.results-table th:nth-child(8),
+.results-table th:nth-child(9),
+.results-table th:nth-child(10) {
+  background-color: #CD7F32;
+  color: #000000;
+}
+
+/* Total Points column */
+.results-table th:nth-child(11) {
+  background-color: lightblue;
+  color: #000000;
+}
+
+.results-table th:first-child {
+  z-index: 3;
+}
+
+/* Column widths */
+.results-table th:nth-child(1), .results-table td:nth-child(1) { width: 15%; }   /* Tournament */
+.results-table th:nth-child(2), .results-table td:nth-child(2) { width: 15%; }  /* Gold Selection */
+.results-table th:nth-child(3), .results-table td:nth-child(3) { width: 10%; }   /* Gold Result */
+.results-table th:nth-child(4), .results-table td:nth-child(4) { width: 5%; }   /* Gold Points */
+.results-table th:nth-child(5), .results-table td:nth-child(5) { width: 15%; }  /* Silver Selection */
+.results-table th:nth-child(6), .results-table td:nth-child(6) { width: 10%; }   /* Silver Result */
+.results-table th:nth-child(7), .results-table td:nth-child(7) { width: 5%; }   /* Silver Points */
+.results-table th:nth-child(8), .results-table td:nth-child(8) { width: 15%; }  /* Bronze Selection */
+.results-table th:nth-child(9), .results-table td:nth-child(9) { width: 10%; }   /* Bronze Result */
+.results-table th:nth-child(10), .results-table td:nth-child(10) { width: 5%; } /* Bronze Points */
+.results-table th:nth-child(11), .results-table td:nth-child(11) { width: 5%; } /* Total Points */
+
+/* Sticky Tournament column */
+.results-table td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 2;
+}
+
+/* Bold text for Tournament and Total Points columns */
+.results-table td:first-child,
+.results-table td.total-points {
+  font-weight: 700;
+}
+
+.results-table tr:hover td {
+  background-color: #f8f9fa;
+}
+
+.results-table tr:hover td:first-child {
+  background-color: inherit !important;
+}
+
+.results-table td.total-points {
+  font-weight: 600;
+  color: #1a237e;
+}
+
+/* Surface-based row colors for Tournament column */
+.user-results-table tr.row-clay td:first-child {
+  background-color: rgb(255, 153, 51) !important; /* Clay court color */
+}
+.user-results-table tr.row-grass td:first-child {
+  background-color: rgb(100, 180, 0) !important; /* Grass court color */
+}
+.user-results-table tr.row-hard td:first-child {
+  background-color: #87CEEB !important; /* Sky blue color for hard courts */
+}
+
+.results-table tr:hover td:first-child {
+  background-color: inherit !important;
+}
+
+.loading-message {
+  text-align: center;
+  color: #666;
+  padding: 32px;
+  font-size: 1.1rem;
+}
+
+.error-message {
+  background-color: #ffebee;
+  color: #c62828;
+  padding: 16px;
+  border-radius: 4px;
+  margin: 16px 0;
+  text-align: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+/* Bold text for selections and total points */
+.results-table td:nth-child(2),  /* Gold Selection */
+.results-table td:nth-child(5),  /* Silver Selection */
+.results-table td:nth-child(8) { /* Bronze Selection */
+  font-weight: 700;
+}
+
+.results-table td:nth-child(11) { /* Total Points */
+  font-weight: 700;
+  color: #1a237e;
+}
+
+@media (max-width: 900px) {
+  .results-table th,
+  .results-table td {
+    padding: 12px;
+    font-size: 0.9rem;
+  }
+
+  .user-results-heading {
+    font-size: 2rem;
+  }
+} 

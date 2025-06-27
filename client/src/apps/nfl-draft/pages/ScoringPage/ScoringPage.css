@@ -1,0 +1,123 @@
+.scoring-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #FFF5E6;
+}
+
+.page-container {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  background-color: #FFF5E6;
+  padding-top: 0;
+  margin-top: 9rem;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 40px;
+  width: 100%;
+}
+
+.scoring-page .page-header {
+  margin-top: 30px !important; /* or your preferred value */
+  margin-bottom: 32px !important;
+  color: #1a237e;
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+  width: 100%;
+}
+
+.scoring-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background-color: transparent !important;
+  align-items: flex-start;
+}
+
+.section-title {
+  font-weight: bold;
+  color: #1976d2;
+  font-size: 1.5rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.235;
+  letter-spacing: 0.00735em;
+  margin: 0;
+  text-align: left;
+  width: 100%;
+}
+
+.section-content {
+  color: #2c3e50 !important;
+  font-size: 1.3rem !important;
+  line-height: 1.6 !important;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  height: auto !important;
+  min-height: 0 !important;
+  width: 100%;
+}
+
+.bullet-list {
+  list-style-type: disc;
+  padding-left: 2rem;
+  margin: 0;
+  background-color: transparent !important;
+  width: 100%;
+}
+
+.bullet-list li {
+  color: #2c3e50;
+  font-size: 1.3rem;
+  line-height: 1.6;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  margin-bottom: 0.5rem;
+  background-color: transparent !important;
+}
+
+.summary-text {
+  color: #2c3e50;
+  line-height: 1.6;
+  font-size: 1.3rem;
+  text-align: left;
+  width: 100%;
+  margin: 1rem 0 0 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  background-color: transparent !important;
+}
+
+@media (max-width: 768px) {
+  .content-container {
+    padding: 24px 16px;
+  }
+
+  .page-header {
+    font-size: 2rem;
+  }
+
+  .section-title {
+    font-size: 1.3rem;
+  }
+
+  .section-content,
+  .bullet-list li,
+  .summary-text {
+    font-size: 1.1rem;
+  }
+}
