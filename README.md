@@ -295,14 +295,14 @@ nbadraft:
 
 8 tables:
 
-nba_users
-nba_teams
-nba_prospects
-nba_expert_picks
-nba_draft_settings
-nba_user_selections
-nba_actual_results
-nba_leaderboard
+nba_users,
+nba_teams,
+nba_prospects,
+nba_expert_picks,
+nba_draft_settings,
+nba_user_selections,
+nba_actual_results,
+nba_leaderboard,
 
 1 View: nba_selections_with_usernames
 
@@ -310,22 +310,23 @@ nfldraft:
 
 8 tables:
 
-users
-user_selections
-teams
-prospects
-expert_picks
-draft_settings
-actual_results
+users,
+user_selections,
+teams,
+prospects,
+expert_picks,
+draft_settings,
+actual_results,
 leaderboard
+
 tennis:
 
 5 tables: 
 
-leaderboard
-results
-tennis_users
-user_selections
+leaderboard,
+results,
+tennis_users,
+user_selections,
 weekly_results
 
 1 view: tennis_selections_with_usernames
